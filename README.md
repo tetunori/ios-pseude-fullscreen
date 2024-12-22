@@ -12,7 +12,7 @@ I have just came up with an idea for iOS/iPad (pseudo)full screen feature by usi
 Add 2 line codes as below:
 ```html: index.html
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="iosfullscreen.js"></script>⭐
+  <script src="https://tetunori.github.io/ios-pseude-fullscreen/iosfullscreen.js"></script>
 ```
 
 ## JavaScript
