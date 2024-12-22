@@ -10,14 +10,14 @@ I have just came up with an idea for iOS/iPad (pseudo)full screen feature by usi
 # How to use🪄
 ## HTML
 Add 2 line codes as below:
-```html: index.html
+```html
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://tetunori.github.io/ios-pseude-fullscreen/iosfullscreen.js"></script>
 ```
 
 ## JavaScript
 Call `iOSfullscreen()` after `creatCanvas(windowWidth, windowHeight)` as below:
-```javascript: sketch.js
+```javascript
 function setup() {
   createCanvas(windowWidth, windowHeight);
   iOSfullscreen();
