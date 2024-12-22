@@ -1,8 +1,9 @@
 # iOS pseude fullscreen
 Version 0.9.0  
+Play from [here](https://tetunori.github.io/ios-pseude-fullscreen/) via iPhone/iPad.
 
 # Description🖊️
-I have just came up with an idea for iOS/iPad (pseudo)full screen feature by using WebRTC capture stream function(actually it generating tentative movie from p5js canvas dynamically).
+I have just came up with an idea for iOS/iPad (pseudo)full screen feature for p5.js sketches by using WebRTC capture stream function(actually it generating tentative movie from p5.js canvas dynamically).
 
 - There is no side effect except for iOS/iPad devices
 - It cannot be used in interactive sketches though..😅
