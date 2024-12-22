@@ -25,9 +25,6 @@ function setup() {
 }
 ```
 
-# Article📰
-後日⭐
-
 # License⚖️
 Copyright (c) 2024 [Tetsunori Nakayama](https://github.com/tetunori). MIT License.
 
